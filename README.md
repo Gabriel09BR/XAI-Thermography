@@ -13,7 +13,7 @@ The main goal is to ensure reproducibility, interpretability, and transparency i
 
 These data were extracted from mammographic regions of interest (ROIs) and include shape, texture, and color descriptors, which are fundamental for both classification and model explainability.
 
-##Methodological Context
+## Methodological Context
 
  The datasets and features provided here were generated through an Explainable Artificial Intelligence (XAI) framework based on:
  
