@@ -6,7 +6,7 @@
   📄[Access the published article here](https://periodicos.newsciencepubl.com/arace/article/view/8436)
   
   
-------------- Overview -------------
+# Overview
 
 This repository provides the segmentation masks and feature descriptions that achieved the best experimental results in the study presented in the article above.
 The main goal is to ensure reproducibility, interpretability, and transparency in biomedical image analysis by sharing the explainable features used for lesion detection and classification.
