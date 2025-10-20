@@ -1,4 +1,4 @@
-🩺 # Detection and Classification of Breast Lesions Using Explainable Machine Learning
+ # Detection and Classification of Breast Lesions Using Explainable Machine Learning
 
   Supplementary repository for the article:
   “Detection and Classification of Breast Lesions in Biomedical Images Using Explainable Machine Learning Techniques”
