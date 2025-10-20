@@ -1,3 +1,30 @@
+🩺 Detection and Classification of Breast Lesions Using Explainable Machine Learning
+
+  Supplementary repository for the article:
+  “Detection and Classification of Breast Lesions in Biomedical Images Using Explainable Machine Learning Techniques”
+  Authors: Gabriel Luiz Limeira Barreto, Prof. Dr. Sidney Marlon Lopes de Lima (advisor)
+  📄[Access the published article here](https://periodicos.newsciencepubl.com/arace/article/view/8436)
+  
+  
+------------- Overview -------------
+
+This repository provides the segmentation masks and feature descriptions that achieved the best experimental results in the study presented in the article above.
+The main goal is to ensure reproducibility, interpretability, and transparency in biomedical image analysis by sharing the explainable features used for lesion detection and classification.
+
+These data were extracted from mammographic regions of interest (ROIs) and include shape, texture, and color descriptors, which are fundamental for both classification and model explainability.
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Description of Shape and Texture Features
 
 | **Attribute** | **Description** |
